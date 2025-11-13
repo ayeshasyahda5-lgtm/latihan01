@@ -22,3 +22,7 @@ data
 
 ekonomika
 
+
+
+Derie
+
